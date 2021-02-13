@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-image:image("https://images.app.goo.gl/1AWCR8gLWUMbM4VK9");
+    font-family: fantasy
+}
+
+.menu {
+    list-style: georgian;
+    font-family: fantasy;
+    position: absolute;
+    top: 10px;
+    margin-right: 20px;
+    z-index: 10px;
+    cursor: crosshair;
+}
+
+.links {
+    float: left;
+    color: darkblue;
+    padding: 10px;
+    padding-left: 200px;
+    padding-right: 100px;
+    padding-bottom: 10px;
+    font-family: fantasy;
+    font-size: 20px;
+
+
+}
